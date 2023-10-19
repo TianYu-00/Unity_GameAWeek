@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e9bc04d0331615444862e6d38077a254
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FullTilt Boogie NF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 080c784c95293ae42b16973541531835, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
